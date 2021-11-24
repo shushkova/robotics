@@ -1,0 +1,6 @@
+fanuc/joint_state_publisher/joint_state_publisher
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/joint_state_publisher/cmake.lock /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/./cmake.lock
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/joint_state_publisher/lib/pkgconfig/joint_state_publisher.pc /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/lib/pkgconfig/joint_state_publisher.pc
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/joint_state_publisher/lib/python2.7/dist-packages/joint_state_publisher/__init__.py /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/lib/python2.7/dist-packages/joint_state_publisher/__init__.py
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/joint_state_publisher/share/joint_state_publisher/cmake/joint_state_publisherConfig.cmake /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/share/joint_state_publisher/cmake/joint_state_publisherConfig.cmake
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/joint_state_publisher/share/joint_state_publisher/cmake/joint_state_publisherConfig-version.cmake /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/share/joint_state_publisher/cmake/joint_state_publisherConfig-version.cmake

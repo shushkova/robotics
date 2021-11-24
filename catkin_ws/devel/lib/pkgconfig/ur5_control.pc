@@ -1,0 +1,8 @@
+prefix=/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel
+
+Name: ur5_control
+Description: Description of ur5_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lur5_control
+Requires: tf moveit_core moveit_visual_tools moveit_ros_planning_interface

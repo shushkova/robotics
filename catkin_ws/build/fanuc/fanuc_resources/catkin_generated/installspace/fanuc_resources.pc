@@ -1,0 +1,8 @@
+prefix=/home/vvshu/Desktop/thermalspray_cell/catkin_ws/install
+
+Name: fanuc_resources
+Description: Description of fanuc_resources
+Version: 0.5.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

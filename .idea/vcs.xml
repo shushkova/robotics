@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/fanuc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/fanuc/joint_state_publisher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/fanuc_experimental" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/fanuc_experimental/realsense-ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/fmauch_universal_robot" vcs="Git" />
+  </component>
+</project>

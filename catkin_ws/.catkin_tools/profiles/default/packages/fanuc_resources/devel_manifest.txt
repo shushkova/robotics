@@ -1,0 +1,5 @@
+fanuc/fanuc_resources
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/fanuc_resources/cmake.lock /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/./cmake.lock
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/fanuc_resources/lib/pkgconfig/fanuc_resources.pc /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/lib/pkgconfig/fanuc_resources.pc
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/fanuc_resources/share/fanuc_resources/cmake/fanuc_resourcesConfig-version.cmake /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/share/fanuc_resources/cmake/fanuc_resourcesConfig-version.cmake
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/fanuc_resources/share/fanuc_resources/cmake/fanuc_resourcesConfig.cmake /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/share/fanuc_resources/cmake/fanuc_resourcesConfig.cmake

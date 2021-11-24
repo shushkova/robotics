@@ -1,0 +1,8 @@
+prefix=/home/vvshu/Desktop/thermalspray_cell/catkin_ws/devel
+
+Name: fanuc_control
+Description: Description of fanuc_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lfanuc_control
+Requires: tf moveit_core moveit_visual_tools moveit_ros_planning_interface

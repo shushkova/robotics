@@ -1,0 +1,8 @@
+prefix=/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel
+
+Name: fanuc_m20ib_moveit_plugins
+Description: Description of fanuc_m20ib_moveit_plugins
+Version: 0.5.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: moveit_core pluginlib roscpp tf_conversions

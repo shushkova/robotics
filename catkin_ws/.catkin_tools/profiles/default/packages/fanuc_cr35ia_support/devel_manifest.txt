@@ -1,0 +1,5 @@
+fanuc/fanuc_cr35ia_support
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/fanuc_cr35ia_support/cmake.lock /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/./cmake.lock
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/fanuc_cr35ia_support/lib/pkgconfig/fanuc_cr35ia_support.pc /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/lib/pkgconfig/fanuc_cr35ia_support.pc
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/fanuc_cr35ia_support/share/fanuc_cr35ia_support/cmake/fanuc_cr35ia_supportConfig.cmake /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/share/fanuc_cr35ia_support/cmake/fanuc_cr35ia_supportConfig.cmake
+/home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/.private/fanuc_cr35ia_support/share/fanuc_cr35ia_support/cmake/fanuc_cr35ia_supportConfig-version.cmake /home/artemyakimchuk/Documents/thermalspray_cell/catkin_ws/devel/share/fanuc_cr35ia_support/cmake/fanuc_cr35ia_supportConfig-version.cmake
